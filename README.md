@@ -10,7 +10,7 @@
 
 ---
 
-3rd-year CS student who builds systems from first principles — futex primitives, RDTSC hardware profiling, DB-enforced state machines. I care about *why* a design decision was made, not just that it works.
+4th-year CS student who builds systems from first principles — futex primitives, RDTSC hardware profiling, DB-enforced state machines. I care about *why* a design decision was made, not just that it works.
 
 Currently open to internships in **systems programming**, **backend infrastructure**, or **security**.
 
